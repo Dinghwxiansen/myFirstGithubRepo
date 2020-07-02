@@ -8,4 +8,8 @@ git tracks change of files
 
 i created a new branch on git
 
-create a new branch
+<<<<<<< HEAD
+create a new branch on git name is featurel
+=======
+create a new branch on git name is featurel
+>>>>>>> featurel
